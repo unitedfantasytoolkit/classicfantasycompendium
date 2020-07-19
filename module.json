@@ -1,0 +1,50 @@
+{
+    "name": "ose-content",
+    "title": "Old School Essentials OGL Content",
+    "description": "Open Game Licensed content from Necrotic Gnome's Old School Essentials.",
+    "version": "0.0.1",
+    "systems": ["ose"],
+    "author": "U~man",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "packs": [
+        {
+          "name": "monsters",
+          "label": "Monsters",
+          "package": "ose-content",
+          "path": "packs/monsters.db",
+          "entity": "Actor"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "package": "ose-content",
+            "path": "packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "package": "ose-content",
+            "path": "packs/spells.db",
+            "entity": "Item"
+        },
+        {
+            "name": "classes",
+            "label": "Classes",
+            "package": "ose-content",
+            "path": "packs/classes.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "treasures",
+            "label": "Treasure Tables",
+            "package": "ose-content",
+            "path": "packs/treasures.db",
+            "entity": "RollTable"
+        }
+    ],
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.7.0"
+}
