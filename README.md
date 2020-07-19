@@ -15,4 +15,5 @@ Old-School Essentials is a trademark of Necrotic Gnome.\
 The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license.
 
 ## Contributions
-Feel free to push your updated packs files and do a merge request on the `contrib` branch
+Feel free to push your updated packs files and do a merge request on the `contrib` branch.
+Please issue a [ticket](https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/boards) if you spot an error.
