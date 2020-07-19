@@ -4,7 +4,7 @@ The content is strictly limited to entries under the Open Game License.
 
 ## Installation
 You can now find this Foundry VTT game module within Foundry VTT in the module browser.
-This module must be used in conjunction with Old School Essentials System for Foundry VTT that you can find [here](https://gitlab.com/mesfoliesludiques/foundryvtt-ose).
+This module must be used in conjunction with the unofficial [Old School Essentials System for Foundry VTT](https://gitlab.com/mesfoliesludiques/foundryvtt-ose).
 
 ## License
 This work is permitted under Open Game License Version 1.0a.
