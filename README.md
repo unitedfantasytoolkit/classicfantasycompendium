@@ -15,6 +15,4 @@ Old-School Essentials is a trademark of Necrotic Gnome.\
 The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license.
 
 ## Contributions
-Feel free to push your updated packs files and do a merge request on the `contrib` branch.
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H21WMKA)
+Feel free to push your updated packs files and do a merge request on the `contrib` branch
