@@ -6,7 +6,7 @@ You can now find this Foundry VTT game module within Foundry VTT in the module b
 This module must be used in conjunction with the unofficial [Old School Essentials System for Foundry VTT](https://gitlab.com/mesfoliesludiques/foundryvtt-ose).
 
 ## License
-This work is permitted under Open Game License Version 1.0a.\
+This work is released under [Open Game License](OGL.txt) Version 1.0a.\
 This Foundry VTT module requires Old-School Essentials Core Rules that you can find [here](https://necroticgnome.com).
 
 This third party product is not affiliated with or approved by Necrotic Gnome. \
