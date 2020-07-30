@@ -2,7 +2,7 @@
     "name": "ose-content",
     "title": "Old School Essentials OGL Content",
     "description": "Open Game Licensed content from Necrotic Gnome's Old School Essentials.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "systems": ["ose"],
     "author": "U~man",
     "scripts": [],
@@ -46,5 +46,8 @@
         }
     ],
     "minimumCoreVersion": "0.6.2",
-    "compatibleCoreVersion": "0.7.0"
+    "compatibleCoreVersion": "0.7.0",
+    "url": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content",
+    "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/raw/master/src/system.json",
+    "download": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/raw/master/package/ose-content-v0.1.0.zip"
 }
