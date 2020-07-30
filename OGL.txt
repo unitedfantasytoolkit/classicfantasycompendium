@@ -1,3 +1,9 @@
+DESIGNATION OF PRODUCT IDENTITY
+All artwork, logos, and presentation are product identity. All text not declared as Open Game Content is product identity.
+
+DESIGNATION OF OPEN GAME CONTENT
+Compendium Items, Weapons, Armors, Spells and Monsters are Open Game Content.
+
 OPEN GAME LICENSE Version 1.0a
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved.
@@ -80,4 +86,6 @@ Old-School Essentials Classic Fantasy: Rules Tome © 2019 Gavin Norman.
 
 Old-School Essentials System Reference Document © 2019 Gavin Norman. Author Gavin Norman.
 
-END OF LICENSE 
+Old School Essentials OGL Content for Foundry VTT © 2020 Emmanuel Ruaud.
+
+END OF LICENSE
