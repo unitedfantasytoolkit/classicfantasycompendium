@@ -13,6 +13,9 @@ This third party product is not affiliated with or approved by Necrotic Gnome. \
 Old-School Essentials is a trademark of Necrotic Gnome.\
 The trademark and Old-School Essentials logo are used with permission of Necrotic Gnome, under license.
 
+## Artwork
+Icons are from REXARD, for more, go to their [Unity store](https://assetstore.unity.com/publishers/13229).
+
 ## Contributions
 Feel free to push your updated packs files and do a merge request on the `contrib` branch.\
 Please issue a [ticket](https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/boards) if you spot an error.
