@@ -45,10 +45,59 @@
             "entity": "RollTable"
         },
         {
-            "name": "abilities",
-            "label": "Abilities",
+            "name": "abilities-cleric",
+            "label": "Abilities: Cleric",
             "package": "ose-content",
-            "path": "packs/abilities.db",
+            "path": "packs/abilities-cleric.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-dwarf",
+            "label": "Abilities: Dwarf",
+            "package": "ose-content",
+            "path": "packs/abilities-dwarf.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-elf",
+            "label": "Abilities: Elf",
+            "package": "ose-content",
+            "path": "packs/abilities-elf.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-fighter",
+            "label": "Abilities: Fighter",
+            "package": "ose-content",
+            "path": "packs/abilities-fighter.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-halfling",
+            "label": "Abilities: Halfling",
+            "package": "ose-content",
+            "path": "packs/abilities-halfling.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-magic-user",
+            "label": "Abilities: Magic-User",
+            "package": "ose-content",
+            "path": "packs/abilities-magic-user.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilities-thief",
+            "label": "Abilities: Thief",
+            "package": "ose-content",
+            "path": "packs/abilities-thief.db",
+            "entity": "Item"
+        },
+        {
+            "name": "items-coins",
+            "label": "Items: Coins",
+            "package": "ose-content",
+            "path": "packs/items-coins.db",
             "entity": "Item"
         }
     ],
