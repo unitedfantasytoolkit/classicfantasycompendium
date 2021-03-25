@@ -1,116 +1,116 @@
 {
-    "name": "ose-content",
-    "title": "Old School Essentials OGL Content",
-    "description": "Open Game Licensed content from Necrotic Gnome's Old School Essentials.",
-    "version": "0.4.1",
-    "systems": ["ose"],
-    "author": ["U~man", "Tuirgin"],
-    "scripts": [],
-    "esmodules": [],
-    "styles": [],
-    "packs": [
-        {
-          "name": "monsters",
-          "label": "Monsters",
-          "package": "ose-content",
-          "path": "packs/monsters.db",
-          "entity": "Actor"
-        },
-        {
-            "name": "items",
-            "label": "Items",
-            "package": "ose-content",
-            "path": "packs/items.db",
-            "entity": "Item"
-        },
-        {
-            "name": "spells",
-            "label": "Spells",
-            "package": "ose-content",
-            "path": "packs/spells.db",
-            "entity": "Item"
-        },
-        {
-            "name": "classes",
-            "label": "Classes",
-            "package": "ose-content",
-            "path": "packs/classes.db",
-            "entity": "JournalEntry"
-        },
-        {
-            "name": "treasures",
-            "label": "Treasure Tables",
-            "package": "ose-content",
-            "path": "packs/treasures.db",
-            "entity": "RollTable"
-        },
-        {
-            "name": "abilities-cleric",
-            "label": "Abilities: Cleric",
-            "package": "ose-content",
-            "path": "packs/abilities-cleric.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-dwarf",
-            "label": "Abilities: Dwarf",
-            "package": "ose-content",
-            "path": "packs/abilities-dwarf.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-elf",
-            "label": "Abilities: Elf",
-            "package": "ose-content",
-            "path": "packs/abilities-elf.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-fighter",
-            "label": "Abilities: Fighter",
-            "package": "ose-content",
-            "path": "packs/abilities-fighter.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-halfling",
-            "label": "Abilities: Halfling",
-            "package": "ose-content",
-            "path": "packs/abilities-halfling.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-magic-user",
-            "label": "Abilities: Magic-User",
-            "package": "ose-content",
-            "path": "packs/abilities-magic-user.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-thief",
-            "label": "Abilities: Thief",
-            "package": "ose-content",
-            "path": "packs/abilities-thief.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-coins",
-            "label": "Items: Coins",
-            "package": "ose-content",
-            "path": "packs/items-coins.db",
-            "entity": "Item"
-        }
-        {
-            "name": "items-potions",
-            "label": "Items: Potions",
-            "package": "ose-content",
-            "path": "packs/potions.db",
-            "entity": "Item"
-        }
-    ],
-    "minimumCoreVersion": "0.6.2",
-    "compatibleCoreVersion": "0.7.9",
-    "url": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content",
-    "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/raw/master/module.json",
-    "download": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/raw/master/package/ose-content-v0.4.1.zip"
+  "name": "ose-content",
+  "title": "Old School Essentials OGL Content",
+  "description": "Open Game Licensed content from Necrotic Gnome's Old School Essentials.",
+  "version": "0.4.1",
+  "systems": ["ose"],
+  "author": ["U~man", "Tuirgin"],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "package": "ose-content",
+      "path": "packs/monsters.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "package": "ose-content",
+      "path": "packs/items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "package": "ose-content",
+      "path": "packs/spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "package": "ose-content",
+      "path": "packs/classes.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "treasures",
+      "label": "Treasure Tables",
+      "package": "ose-content",
+      "path": "packs/treasures.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "abilities-cleric",
+      "label": "Abilities: Cleric",
+      "package": "ose-content",
+      "path": "packs/abilities-cleric.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-dwarf",
+      "label": "Abilities: Dwarf",
+      "package": "ose-content",
+      "path": "packs/abilities-dwarf.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-elf",
+      "label": "Abilities: Elf",
+      "package": "ose-content",
+      "path": "packs/abilities-elf.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-fighter",
+      "label": "Abilities: Fighter",
+      "package": "ose-content",
+      "path": "packs/abilities-fighter.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-halfling",
+      "label": "Abilities: Halfling",
+      "package": "ose-content",
+      "path": "packs/abilities-halfling.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-magic-user",
+      "label": "Abilities: Magic-User",
+      "package": "ose-content",
+      "path": "packs/abilities-magic-user.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-thief",
+      "label": "Abilities: Thief",
+      "package": "ose-content",
+      "path": "packs/abilities-thief.db",
+      "entity": "Item"
+    },
+    {
+      "name": "items-coins",
+      "label": "Items: Coins",
+      "package": "ose-content",
+      "path": "packs/items-coins.db",
+      "entity": "Item"
+    },
+    {
+      "name": "items-potions",
+      "label": "Items: Potions",
+      "package": "ose-content",
+      "path": "packs/potions.db",
+      "entity": "Item"
+    }
+  ],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content",
+  "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/raw/master/module.json",
+  "download": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/raw/master/package/ose-content-v0.4.1.zip"
 }
