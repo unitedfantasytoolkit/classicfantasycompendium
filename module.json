@@ -104,7 +104,7 @@
       "name": "items-potions",
       "label": "Items: Potions",
       "package": "ose-content",
-      "path": "packs/potions.db",
+      "path": "packs/items-potions.db",
       "entity": "Item"
     }
   ],
