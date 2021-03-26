@@ -1,172 +1,193 @@
 {
-    "name": "ose-content",
-    "title": "Old School Essentials OGL Content",
-    "description": "Open Game Licensed content from Necrotic Gnome's Old School Essentials.",
-    "version": "0.4.1",
-    "systems": ["ose"],
-    "author": ["U~man", "Tuirgin"],
-    "scripts": [],
-    "esmodules": [],
-    "styles": [],
-    "packs": [
-        {
-          "name": "monsters",
-          "label": "Monsters",
-          "package": "ose-content",
-          "path": "packs/monsters.db",
-          "entity": "Actor"
-        },
-        {
-            "name": "items",
-            "label": "Items",
-            "package": "ose-content",
-            "path": "packs/items.db",
-            "entity": "Item"
-        },
-        {
-            "name": "spells",
-            "label": "Spells",
-            "package": "ose-content",
-            "path": "packs/spells.db",
-            "entity": "Item"
-        },
-        {
-            "name": "classes",
-            "label": "Classes",
-            "package": "ose-content",
-            "path": "packs/classes.db",
-            "entity": "JournalEntry"
-        },
-        {
-            "name": "treasures",
-            "label": "Treasure Tables",
-            "package": "ose-content",
-            "path": "packs/treasures.db",
-            "entity": "RollTable"
-        },
-        {
-            "name": "abilities-cleric",
-            "label": "Abilities: Cleric",
-            "package": "ose-content",
-            "path": "packs/abilities-cleric.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-dwarf",
-            "label": "Abilities: Dwarf",
-            "package": "ose-content",
-            "path": "packs/abilities-dwarf.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-elf",
-            "label": "Abilities: Elf",
-            "package": "ose-content",
-            "path": "packs/abilities-elf.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-fighter",
-            "label": "Abilities: Fighter",
-            "package": "ose-content",
-            "path": "packs/abilities-fighter.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-halfling",
-            "label": "Abilities: Halfling",
-            "package": "ose-content",
-            "path": "packs/abilities-halfling.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-magic-user",
-            "label": "Abilities: Magic-User",
-            "package": "ose-content",
-            "path": "packs/abilities-magic-user.db",
-            "entity": "Item"
-        },
-        {
-            "name": "abilities-thief",
-            "label": "Abilities: Thief",
-            "package": "ose-content",
-            "path": "packs/abilities-thief.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-coins",
-            "label": "Items: Coins",
-            "package": "ose-content",
-            "path": "packs/items-coins.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-potions",
-            "label": "Items: Potions",
-            "package": "ose-content",
-            "path": "packs/items-potions.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-rings",
-            "label": "Items: Rings",
-            "package": "ose-content",
-            "path": "packs/items-rings.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-rods-staffs-wands",
-            "label": "Items: Rods, Staffs and Wands",
-            "package": "ose-content",
-            "path": "packs/items-rods-staffs-wands.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-magic-armour-shields",
-            "label": "Items: Magic Armour and Shields",
-            "package": "ose-content",
-            "path": "packs/items-magic-armour-shields.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-magic-weapons",
-            "label": "Items: Magic Weapons",
-            "package": "ose-content",
-            "path": "packs/items-magic-weapons.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-magic-swords",
-            "label": "Items: Magic Swords",
-            "package": "ose-content",
-            "path": "packs/items-magic-swords.db",
-            "entity": "Item"
-        },
-        {
-            "name": "items-misc-magic",
-            "label": "Items: Misc Magic Items",
-            "package": "ose-content",
-            "path": "packs/items-misc-magic.db",
-            "entity": "Item"
-        },
-        {
-            "name": "tables-items",
-            "label": "Tables: Items",
-            "package": "ose-content",
-            "path": "packs/tables-items.db",
-            "entity": "RollTable"
-        },
-        {
-            "name": "tables-encounters",
-            "label": "Tables: Encounters",
-            "package": "ose-content",
-            "path": "packs/tables-encounters.db",
-            "entity": "RollTable"
-        }
-    ],
-    "minimumCoreVersion": "0.6.2",
-    "compatibleCoreVersion": "0.7.9",
-    "url": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content",
-    "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/raw/master/module.json",
-    "download": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/raw/master/package/ose-content-v0.4.1.zip"
+  "name": "ose-content",
+  "title": "Old School Essentials OGL Content",
+  "description": "Open Game Licensed content from Necrotic Gnome’s Old School Essentials.",
+  "version": "0.4.1",
+  "systems": ["ose"],
+  "author": ["U~man", "Tuirgin"],
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "abilities-cleric",
+      "label": "Abilities: Cleric",
+      "package": "ose-content",
+      "path": "packs/abilities-cleric.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-dwarf",
+      "label": "Abilities: Dwarf",
+      "package": "ose-content",
+      "path": "packs/abilities-dwarf.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-elf",
+      "label": "Abilities: Elf",
+      "package": "ose-content",
+      "path": "packs/abilities-elf.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-fighter",
+      "label": "Abilities: Fighter",
+      "package": "ose-content",
+      "path": "packs/abilities-fighter.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-halfling",
+      "label": "Abilities: Halfling",
+      "package": "ose-content",
+      "path": "packs/abilities-halfling.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-magic-user",
+      "label": "Abilities: Magic-User",
+      "package": "ose-content",
+      "path": "packs/abilities-magic-user.db",
+      "entity": "Item"
+    },
+    {
+      "name": "abilities-thief",
+      "label": "Abilities: Thief",
+      "package": "ose-content",
+      "path": "packs/abilities-thief.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "package": "ose-content",
+      "path": "packs/classes.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "equipment-adventuring-gear",
+      "label": "Equipment: Adventuring Gear",
+      "package": "ose-content",
+      "path": "packs/equipment-adventuring-gear.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment-ammunition",
+      "label": "Equipment: Ammunition",
+      "package": "ose-content",
+      "path": "packs/equipment-ammunition.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment-armour",
+      "label": "Equipment: Armour",
+      "package": "ose-content",
+      "path": "packs/equipment-armour.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment-coins",
+      "label": "Equipment: Coins",
+      "package": "ose-content",
+      "path": "packs/equipment-coins.db",
+      "entity": "Item"
+    },
+    {
+      "name": "equipment-weapons",
+      "label": "Equipment: Weapons",
+      "package": "ose-content",
+      "path": "packs/equipment-weapons.db",
+      "entity": "Item"
+    },
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "package": "ose-content",
+      "path": "packs/monsters.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "package": "ose-content",
+      "path": "packs/spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tables-encounters",
+      "label": "Tables: Encounters",
+      "package": "ose-content",
+      "path": "packs/tables-encounters.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "tables-items",
+      "label": "Tables: Items",
+      "package": "ose-content",
+      "path": "packs/tables-items.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "treasures",
+      "label": "Treasure Tables",
+      "package": "ose-content",
+      "path": "packs/treasures.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "treasures-armour-shields",
+      "label": "Treasures: Armour and Shields",
+      "package": "ose-content",
+      "path": "packs/treasures-armour-shields.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-miscellaneous-items",
+      "label": "Treasures: Miscellaneous Items",
+      "package": "ose-content",
+      "path": "packs/treasures-miscellaneous-items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-potions",
+      "label": "Treasures: Potions",
+      "package": "ose-content",
+      "path": "packs/treasures-potions.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-rings",
+      "label": "Treasures: Rings",
+      "package": "ose-content",
+      "path": "packs/treasures-rings.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-rods-staffs-wands",
+      "label": "Treasures: Rods, Staffs, Wands",
+      "package": "ose-content",
+      "path": "packs/treasures-rods-staffs-wands.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-swords",
+      "label": "Treasures: Swords",
+      "package": "ose-content",
+      "path": "packs/treasures-swords.db",
+      "entity": "Item"
+    },
+    {
+      "name": "treasures-weapons",
+      "label": "Treasures: Weapons",
+      "package": "ose-content",
+      "path": "packs/treasures-weapons.db",
+      "entity": "Item"
+    }
+  ],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content",
+  "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/raw/master/module.json",
+  "download": "https://gitlab.com/mesfoliesludiques/foundryvtt-ose-content/-/raw/master/package/ose-content-v0.4.1.zip"
 }
