@@ -191,6 +191,14 @@
       "path": "packs/srd-text-characters.db",
       "entity": "JournalEntry"
       
+    },
+    {
+      "name": "srd-text-equipment-and-services",
+      "label": "SRD text: Equipment and Services",
+      "package": "ose-content",
+      "path": "packs/srd-text-equipment-and-services.db",
+      "entity": "JournalEntry"
+      
     }
   ],
   "minimumCoreVersion": "0.6.2",
