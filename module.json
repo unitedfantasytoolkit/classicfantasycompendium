@@ -189,8 +189,7 @@
       "label": "SRD text: Characters",
       "package": "ose-content",
       "path": "packs/srd-text-characters.db",
-      "entity": "JournalEntry"
-      
+      "entity": "JournalEntry" 
     },
     {
       "name": "srd-text-equipment-and-services",
@@ -198,7 +197,13 @@
       "package": "ose-content",
       "path": "packs/srd-text-equipment-and-services.db",
       "entity": "JournalEntry"
-      
+    },
+    {
+      "name": "srd-text-magic",
+      "label": "SRD text: Magic",
+      "package": "ose-content",
+      "path": "packs/srd-text-magic.db",
+      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
