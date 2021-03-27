@@ -183,6 +183,14 @@
       "package": "ose-content",
       "path": "packs/treasures-weapons.db",
       "entity": "Item"
+    },
+    {
+      "name": "srd-text-characters",
+      "label": "SRD text: Characters",
+      "package": "ose-content",
+      "path": "packs/srd-text-characters.db",
+      "entity": "JournalEntry"
+      
     }
   ],
   "minimumCoreVersion": "0.6.2",
