@@ -211,6 +211,13 @@
       "package": "ose-content",
       "path": "packs/srd-text-playing-the-game.db",
       "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-text-monsters",
+      "label": "SRD text: Monsters",
+      "package": "ose-content",
+      "path": "packs/srd-text-monsters.db",
+      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
