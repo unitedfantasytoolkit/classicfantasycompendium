@@ -204,6 +204,13 @@
       "package": "ose-content",
       "path": "packs/srd-text-magic.db",
       "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-text-playing-the-game",
+      "label": "SRD text: Playing the Game",
+      "package": "ose-content",
+      "path": "packs/srd-text-playing-the-game.db",
+      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
