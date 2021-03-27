@@ -218,6 +218,13 @@
       "package": "ose-content",
       "path": "packs/srd-text-monsters.db",
       "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-text-running-adventures",
+      "label": "SRD text: Running Adventures",
+      "package": "ose-content",
+      "path": "packs/srd-text-running-adventures.db",
+      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
