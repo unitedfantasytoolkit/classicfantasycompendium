@@ -225,6 +225,13 @@
       "package": "ose-content",
       "path": "packs/srd-text-running-adventures.db",
       "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-text-treasures",
+      "label": "SRD text: Treasures",
+      "package": "ose-content",
+      "path": "packs/srd-text-treasures.db",
+      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
