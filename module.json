@@ -59,13 +59,6 @@
       "entity": "Item"
     },
     {
-      "name": "classes",
-      "label": "Classes",
-      "package": "ose-content",
-      "path": "packs/classes.db",
-      "entity": "JournalEntry"
-    },
-    {
       "name": "equipment-adventuring-gear",
       "label": "Equipment: Adventuring Gear",
       "package": "ose-content",
@@ -113,6 +106,69 @@
       "package": "ose-content",
       "path": "packs/spells.db",
       "entity": "Item"
+    },
+    {
+      "name": "srd-0-main-page",
+      "label": "SRD 0: Main Page",
+      "package": "ose-content",
+      "path": "packs/srd-0-main-page.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-1-characters",
+      "label": "SRD 1: Characters",
+      "package": "ose-content",
+      "path": "packs/srd-1-characters.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-2-classes",
+      "label": "SRD 2: Classes",
+      "package": "ose-content",
+      "path": "packs/srd-2-classes.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-3-equipment-and-services",
+      "label": "SRD 3: Equipment & Services",
+      "package": "ose-content",
+      "path": "packs/srd-3-equipment-and-services.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-4-magic",
+      "label": "SRD 4: Magic",
+      "package": "ose-content",
+      "path": "packs/srd-4-magic.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-5-playing-the-game",
+      "label": "SRD 5: Playing the Game",
+      "package": "ose-content",
+      "path": "packs/srd-5-playing-the-game.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-6-monsters",
+      "label": "SRD 6: Monsters",
+      "package": "ose-content",
+      "path": "packs/srd-6-monsters.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-7-running-adventures",
+      "label": "SRD 7: Running Adventures",
+      "package": "ose-content",
+      "path": "packs/srd-7-running-adventures.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "srd-8-treasures",
+      "label": "SRD 8: Treasures",
+      "package": "ose-content",
+      "path": "packs/srd-8-treasures.db",
+      "entity": "JournalEntry"
     },
     {
       "name": "tables-encounters",
@@ -183,55 +239,6 @@
       "package": "ose-content",
       "path": "packs/treasures-weapons.db",
       "entity": "Item"
-    },
-    {
-      "name": "srd-text-characters",
-      "label": "SRD text: Characters",
-      "package": "ose-content",
-      "path": "packs/srd-text-characters.db",
-      "entity": "JournalEntry" 
-    },
-    {
-      "name": "srd-text-equipment-and-services",
-      "label": "SRD text: Equipment and Services",
-      "package": "ose-content",
-      "path": "packs/srd-text-equipment-and-services.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "srd-text-magic",
-      "label": "SRD text: Magic",
-      "package": "ose-content",
-      "path": "packs/srd-text-magic.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "srd-text-playing-the-game",
-      "label": "SRD text: Playing the Game",
-      "package": "ose-content",
-      "path": "packs/srd-text-playing-the-game.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "srd-text-monsters",
-      "label": "SRD text: Monsters",
-      "package": "ose-content",
-      "path": "packs/srd-text-monsters.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "srd-text-running-adventures",
-      "label": "SRD text: Running Adventures",
-      "package": "ose-content",
-      "path": "packs/srd-text-running-adventures.db",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "srd-text-treasures",
-      "label": "SRD text: Treasures",
-      "package": "ose-content",
-      "path": "packs/srd-text-treasures.db",
-      "entity": "JournalEntry"
     }
   ],
   "minimumCoreVersion": "0.6.2",
