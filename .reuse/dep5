@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ose-content
+Upstream-Contact: VTT RED LLC <ose-content@vtt.red>
+Source: https://github.com/vttred/ose-content
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: packs/*
+Copyright: 2020-2022 AUTHORS
+License: LicenseRef-OGL-1.0a
+
+Files: module.json README.md .github/* .gitignore AUTHORS
+Copyright: 2020-2022 AUTHORS
+License: GPL-3.0-or-later

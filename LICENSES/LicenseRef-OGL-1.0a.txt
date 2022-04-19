@@ -86,6 +86,6 @@ Old-School Essentials Classic Fantasy: Rules Tome © 2019 Gavin Norman.
 
 Old-School Essentials System Reference Document © 2019 Gavin Norman. Author Gavin Norman.
 
-Old School Essentials OGL Content for Foundry VTT © 2020 Emmanuel Ruaud.
+Old School Essentials OGL Content for Foundry VTT © 2020-2022 AUTHORS.
 
 END OF LICENSE
