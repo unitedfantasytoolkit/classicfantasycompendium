@@ -4,30 +4,40 @@
   "title": "Old-School Essentials SRD Content",
   "description": "Open Game Licensed content from Necrotic Gnome’s Old-School Essentials Classic Fantasy SRD",
   "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
-  "systems": ["ose"],
-  "system": ["ose"],
+  "systems": [
+    "ose"
+  ],
+  "system": [
+    "ose"
+  ],
   "relationships": {
-    "systems": [{
-      "id": "ose",
-      "type": "system",
-      "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/1.5.0/system.json",
-      "compatibility": {
-        "verified": "1.5.1"
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/1.5.0/system.json",
+        "compatibility": {
+          "verified": "1.5.1"
+        }
       }
-    }]
+    ]
   },
-  "author": ["VTT RED","Tuirgin","U~man"],
+  "author": [
+    "VTT RED",
+    "Tuirgin",
+    "U~man"
+  ],
   "authors": [
     {
-      "id": "VTT RED",
+      "name": "VTT RED",
       "email": "ose-content@vtt.red",
       "url": "https://vtt.red"
     },
     {
-      "id": "Tuirgin"
+      "name": "Tuirgin"
     },
     {
-      "id": "U~man"
+      "name": "U~man"
     }
   ],
   "scripts": [],
