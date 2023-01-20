@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ose-content
-Upstream-Contact: VTT RED LLC <ose-content@vtt.red>
-Source: https://github.com/vttred/ose-content
+Upstream-Name: classicfantasycompendium
+Upstream-Contact: VTT RED LLC <uft-classicfantasycompendium@vtt.red>
+Source: https://github.com/unitedfantasytoolkit/classicfantasycompendium
 
 # Sample paragraph, commented out:
 #
@@ -10,9 +10,9 @@ Source: https://github.com/vttred/ose-content
 # License: ...
 
 Files: packs/*
-Copyright: 2020-2022 AUTHORS
+Copyright: 2020-2023 AUTHORS
 License: LicenseRef-OGL-1.0a
 
 Files: module.json README.md .github/* .gitignore AUTHORS
-Copyright: 2020-2022 AUTHORS
+Copyright: 2020-2023 AUTHORS
 License: GPL-3.0-or-later

@@ -1,43 +1,54 @@
 {
-  "id": "ose-content",
-  "name": "ose-content",
-  "title": "Old-School Essentials SRD Content",
-  "description": "Open Game Licensed content from Necrotic Gnome’s Old-School Essentials Classic Fantasy SRD",
+  "id": "classicfantasycompendium",
+  "name": "classicfantasycompendium",
+  "title": "Classic Fantasy Compendium",
+  "description": "Open Game Content from Old-School Essentials Classic Fantasy SRD",
   "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "systems": [
-    "ose"
+    "ose", "uft"
   ],
   "system": [
-    "ose"
+    "ose", "uft"
   ],
   "relationships": {
     "systems": [
       {
         "id": "ose",
         "type": "system",
-        "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/archmage/-/raw/1.5.0/system.json",
+        "manifest": "https://github.com/vttred/ose/releases/latest/download/system.json",
         "compatibility": {
+          "minimum": "1.3.0",
           "verified": "1.5.1"
+        }
+      },
+      {
+        "id": "uft",
+        "type": "system",
+        "manifest": "https://github.com/unitedfantasytoolkit/unitedfantasytoolkit/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "0.1.0",
+          "verified": "0.1.0"
         }
       }
     ]
   },
   "author": [
-    "VTT RED",
-    "Tuirgin",
-    "U~man"
+    "Classic Fantasy Compendium Contributors",
+    "OSE Content Contributors",
+    "OGL COPYRIGHT NOTICE"
   ],
   "authors": [
     {
-      "name": "VTT RED",
-      "email": "ose-content@vtt.red",
-      "url": "https://vtt.red"
+      "name": "Classic Fantasy Compendium Contributors",
+      "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/graphs/contributors"
     },
     {
-      "name": "Tuirgin"
+      "name": "OSE Content Contributors",
+      "url": "https://github.com/vttred/ose-content/graphs/contributors"
     },
     {
-      "name": "U~man"
+      "name": "OGL COPYRIGHT NOTICE",
+      "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/blob/main/LICENSES/LicenseRef-OGL-1.0a.txt"
     }
   ],
   "scripts": [],
@@ -47,7 +58,7 @@
     {
       "name": "abilities-cleric",
       "label": "Abilities: Cleric",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-cleric.db",
       "entity": "Item",
       "type": "Item"
@@ -55,7 +66,7 @@
     {
       "name": "abilities-dwarf",
       "label": "Abilities: Dwarf",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-dwarf.db",
       "entity": "Item",
       "type": "Item"
@@ -63,7 +74,7 @@
     {
       "name": "abilities-elf",
       "label": "Abilities: Elf",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-elf.db",
       "entity": "Item",
       "type": "Item"
@@ -71,7 +82,7 @@
     {
       "name": "abilities-fighter",
       "label": "Abilities: Fighter",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-fighter.db",
       "entity": "Item",
       "type": "Item"
@@ -79,7 +90,7 @@
     {
       "name": "abilities-halfling",
       "label": "Abilities: Halfling",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-halfling.db",
       "entity": "Item",
       "type": "Item"
@@ -87,7 +98,7 @@
     {
       "name": "abilities-magic-user",
       "label": "Abilities: Magic-User",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-magic-user.db",
       "entity": "Item",
       "type": "Item"
@@ -95,7 +106,7 @@
     {
       "name": "abilities-thief",
       "label": "Abilities: Thief",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/abilities-thief.db",
       "entity": "Item",
       "type": "Item"
@@ -103,7 +114,7 @@
     {
       "name": "equipment-adventuring-gear",
       "label": "Equipment: Adventuring Gear",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/equipment-adventuring-gear.db",
       "entity": "Item",
       "type": "Item"
@@ -111,7 +122,7 @@
     {
       "name": "equipment-ammunition",
       "label": "Equipment: Ammunition",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/equipment-ammunition.db",
       "entity": "Item",
       "type": "Item"
@@ -119,7 +130,7 @@
     {
       "name": "equipment-armour",
       "label": "Equipment: Armour",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/equipment-armour.db",
       "entity": "Item",
       "type": "Item"
@@ -127,7 +138,7 @@
     {
       "name": "equipment-coins",
       "label": "Equipment: Coins",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/equipment-coins.db",
       "entity": "Item",
       "type": "Item"
@@ -135,7 +146,7 @@
     {
       "name": "equipment-weapons",
       "label": "Equipment: Weapons",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/equipment-weapons.db",
       "entity": "Item",
       "type": "Item"
@@ -143,7 +154,7 @@
     {
       "name": "monsters",
       "label": "Monsters",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/monsters.db",
       "entity": "Actor",
       "type": "Actor"
@@ -151,7 +162,7 @@
     {
       "name": "spells",
       "label": "Spells",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/spells.db",
       "entity": "Item",
       "type": "Item"
@@ -159,7 +170,7 @@
     {
       "name": "srd-0-main-page",
       "label": "SRD 0: Main Page",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-0-main-page.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -167,7 +178,7 @@
     {
       "name": "srd-1-characters",
       "label": "SRD 1: Characters",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-1-characters.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -175,7 +186,7 @@
     {
       "name": "srd-2-classes",
       "label": "SRD 2: Classes",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-2-classes.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -183,7 +194,7 @@
     {
       "name": "srd-3-equipment-and-services",
       "label": "SRD 3: Equipment & Services",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-3-equipment-and-services.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -191,7 +202,7 @@
     {
       "name": "srd-4-magic",
       "label": "SRD 4: Magic",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-4-magic.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -199,7 +210,7 @@
     {
       "name": "srd-5-playing-the-game",
       "label": "SRD 5: Playing the Game",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-5-playing-the-game.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -207,7 +218,7 @@
     {
       "name": "srd-6-monsters",
       "label": "SRD 6: Monsters",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-6-monsters.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -215,7 +226,7 @@
     {
       "name": "srd-7-running-adventures",
       "label": "SRD 7: Running Adventures",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-7-running-adventures.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -223,7 +234,7 @@
     {
       "name": "srd-8-treasures",
       "label": "SRD 8: Treasures",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/srd-8-treasures.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
@@ -231,7 +242,7 @@
     {
       "name": "tables-encounters",
       "label": "Tables: Encounters",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/tables-encounters.db",
       "entity": "RollTable",
       "type": "RollTable"
@@ -239,7 +250,7 @@
     {
       "name": "tables-items",
       "label": "Tables: Items",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/tables-items.db",
       "entity": "RollTable",
       "type": "RollTable"
@@ -247,7 +258,7 @@
     {
       "name": "treasures",
       "label": "Treasure Tables",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures.db",
       "entity": "RollTable",
       "type": "RollTable"
@@ -255,7 +266,7 @@
     {
       "name": "treasures-armour-shields",
       "label": "Treasures: Armour and Shields",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-armour-shields.db",
       "entity": "Item",
       "type": "Item"
@@ -263,7 +274,7 @@
     {
       "name": "treasures-miscellaneous-items",
       "label": "Treasures: Miscellaneous Items",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-miscellaneous-items.db",
       "entity": "Item",
       "type": "Item"
@@ -271,7 +282,7 @@
     {
       "name": "treasures-potions",
       "label": "Treasures: Potions",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-potions.db",
       "entity": "Item",
       "type": "Item"
@@ -279,7 +290,7 @@
     {
       "name": "treasures-rings",
       "label": "Treasures: Rings",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-rings.db",
       "entity": "Item",
       "type": "Item"
@@ -287,7 +298,7 @@
     {
       "name": "treasures-rods-staffs-wands",
       "label": "Treasures: Rods, Staffs, Wands",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-rods-staffs-wands.db",
       "entity": "Item",
       "type": "Item"
@@ -295,7 +306,7 @@
     {
       "name": "treasures-swords",
       "label": "Treasures: Swords",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-swords.db",
       "entity": "Item",
       "type": "Item"
@@ -303,7 +314,7 @@
     {
       "name": "treasures-weapons",
       "label": "Treasures: Weapons",
-      "package": "ose-content",
+      "package": "classicfantasycompendium",
       "path": "packs/treasures-weapons.db",
       "entity": "Item",
       "type": "Item"
@@ -313,8 +324,7 @@
   "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "0.6.2",
-    "verified": "10",
-    "maximum": "10"
+    "verified": "10"
   },
   "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
