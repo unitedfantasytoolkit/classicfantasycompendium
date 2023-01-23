@@ -1,0 +1,27 @@
+{
+  "name": "classicfantasycompendium",
+  "version": "0.1.0",
+  "description": "A compendium of Classic Fantasy classes, creatures, equipment, and more ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unitedfantasytoolkit/classicfantasycompendium.git"
+  },
+  "keywords": [
+    "compendium",
+    "osr",
+    "classic",
+    "fantasy",
+    "ndjson",
+    "foundryvtt"
+  ],
+  "author": "United Fantasy Toolkit Team, AUTHORS",
+  "license": "SEE LICENSE IN LICENSES",
+  "bugs": {
+    "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/issues"
+  },
+  "homepage": "https://github.com/unitedfantasytoolkit/classicfantasycompendium#readme"
+}
