@@ -1,6 +1,6 @@
 {
   "name": "classicfantasycompendium",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A compendium of Classic Fantasy classes, creatures, equipment, and more ",
   "main": "index.js",
   "scripts": {
