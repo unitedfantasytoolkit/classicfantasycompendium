@@ -61,7 +61,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-cleric.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-dwarf",
@@ -69,7 +70,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-dwarf.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-elf",
@@ -77,7 +79,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-elf.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-fighter",
@@ -85,7 +88,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-fighter.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-halfling",
@@ -93,7 +97,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-halfling.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-magic-user",
@@ -101,7 +106,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-magic-user.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "abilities-thief",
@@ -109,7 +115,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/abilities-thief.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "equipment-adventuring-gear",
@@ -117,7 +124,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/equipment-adventuring-gear.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "equipment-ammunition",
@@ -125,7 +133,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/equipment-ammunition.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "equipment-armour",
@@ -133,7 +142,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/equipment-armour.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "equipment-coins",
@@ -141,7 +151,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/equipment-coins.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "equipment-weapons",
@@ -149,7 +160,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/equipment-weapons.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "monsters",
@@ -157,7 +169,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/monsters.db",
       "entity": "Actor",
-      "type": "Actor"
+      "type": "Actor",
+      "system": "ose"
     },
     {
       "name": "spells",
@@ -165,7 +178,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/spells.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "srd-0-main-page",
@@ -173,7 +187,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-0-main-page.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-1-characters",
@@ -181,7 +196,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-1-characters.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-2-classes",
@@ -189,7 +205,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-2-classes.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-3-equipment-and-services",
@@ -197,7 +214,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-3-equipment-and-services.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-4-magic",
@@ -205,7 +223,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-4-magic.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-5-playing-the-game",
@@ -213,7 +232,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-5-playing-the-game.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-6-monsters",
@@ -221,7 +241,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-6-monsters.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-7-running-adventures",
@@ -229,7 +250,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-7-running-adventures.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "srd-8-treasures",
@@ -237,7 +259,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/srd-8-treasures.db",
       "entity": "JournalEntry",
-      "type": "JournalEntry"
+      "type": "JournalEntry",
+      "system": "ose"
     },
     {
       "name": "tables-encounters",
@@ -245,7 +268,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/tables-encounters.db",
       "entity": "RollTable",
-      "type": "RollTable"
+      "type": "RollTable",
+      "system": "ose"
     },
     {
       "name": "tables-items",
@@ -253,7 +277,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/tables-items.db",
       "entity": "RollTable",
-      "type": "RollTable"
+      "type": "RollTable",
+      "system": "ose"
     },
     {
       "name": "treasures",
@@ -261,7 +286,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures.db",
       "entity": "RollTable",
-      "type": "RollTable"
+      "type": "RollTable",
+      "system": "ose"
     },
     {
       "name": "treasures-armour-shields",
@@ -269,7 +295,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-armour-shields.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-miscellaneous-items",
@@ -277,7 +304,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-miscellaneous-items.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-potions",
@@ -285,7 +313,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-potions.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-rings",
@@ -293,7 +322,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-rings.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-rods-staffs-wands",
@@ -301,7 +331,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-rods-staffs-wands.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-swords",
@@ -309,7 +340,8 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-swords.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     },
     {
       "name": "treasures-weapons",
@@ -317,14 +349,16 @@
       "package": "classicfantasycompendium",
       "path": "packs/treasures-weapons.db",
       "entity": "Item",
-      "type": "Item"
+      "type": "Item",
+      "system": "ose"
     }
   ],
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": "0.6.2",
-    "verified": "10"
+    "verified": "10",
+    "maximum": 11
   },
   "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
