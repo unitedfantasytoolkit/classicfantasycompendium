@@ -4,8 +4,6 @@ This module adds precreated monsters, items, and more from Old-School Essentials
 
 ## Installation
 
-This compendium comes pre-installed in Old-School Essentials Foundry VTT Edition.
-
 You can soon find this add-on module within Foundry VTT's module browser as `classicfantasycompendium`.
 
 ## License
