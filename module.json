@@ -17,8 +17,8 @@
         "type": "system",
         "manifest": "https://github.com/vttred/ose/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.3.0",
-          "verified": "1.5.1"
+          "minimum": "1.8.0",
+          "verified": "2.0.0"
         }
       },
       {
@@ -182,87 +182,6 @@
       "system": "ose"
     },
     {
-      "name": "srd-0-main-page",
-      "label": "SRD 0: Main Page",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-0-main-page.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-1-characters",
-      "label": "SRD 1: Characters",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-1-characters.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-2-classes",
-      "label": "SRD 2: Classes",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-2-classes.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-3-equipment-and-services",
-      "label": "SRD 3: Equipment & Services",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-3-equipment-and-services.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-4-magic",
-      "label": "SRD 4: Magic",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-4-magic.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-5-playing-the-game",
-      "label": "SRD 5: Playing the Game",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-5-playing-the-game.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-6-monsters",
-      "label": "SRD 6: Monsters",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-6-monsters.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-7-running-adventures",
-      "label": "SRD 7: Running Adventures",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-7-running-adventures.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
-      "name": "srd-8-treasures",
-      "label": "SRD 8: Treasures",
-      "package": "classicfantasycompendium",
-      "path": "packs/srd-8-treasures.db",
-      "entity": "JournalEntry",
-      "type": "JournalEntry",
-      "system": "ose"
-    },
-    {
       "name": "tables-encounters",
       "label": "Tables: Encounters",
       "package": "classicfantasycompendium",
@@ -350,6 +269,15 @@
       "path": "packs/treasures-weapons.db",
       "entity": "Item",
       "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "classic-fantasy-srd",
+      "label": "Classic Fantasy SRD",
+      "package": "classicfantasycompendium",
+      "path": "packs/classic-fantasy-srd.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "system": "ose"
     }
   ],
