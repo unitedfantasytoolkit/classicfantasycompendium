@@ -4,12 +4,6 @@
   "title": "Classic Fantasy Compendium",
   "description": "Open Game Content from Old-School Essentials Classic Fantasy SRD",
   "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
-  "systems": [
-    "ose", "uft"
-  ],
-  "system": [
-    "ose", "uft"
-  ],
   "relationships": {
     "systems": [
       {
@@ -32,11 +26,6 @@
       }
     ]
   },
-  "author": [
-    "Classic Fantasy Compendium Contributors",
-    "OSE Content Contributors",
-    "OGL COPYRIGHT NOTICE"
-  ],
   "authors": [
     {
       "name": "Classic Fantasy Compendium Contributors",
@@ -282,11 +271,10 @@
     }
   ],
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "12",
   "compatibility": {
     "minimum": "0.6.2",
-    "verified": "10",
-    "maximum": 11
+    "verified": "12"
   },
   "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
